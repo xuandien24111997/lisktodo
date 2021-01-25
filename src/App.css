@@ -1,0 +1,19 @@
+.create {
+  text-align-last: center;
+  font-size: 25px;
+  font-variant: petite-caps;
+  color: #198754;
+}
+.update {
+  text-align-last: center;
+  font-size: 25px;
+  font-variant: petite-caps;
+  color: #b02a37;
+}
+.hello {
+  text-align: center;
+  color: #42159ac9;
+}
+.delete {
+  margin-left: 5px;
+}
