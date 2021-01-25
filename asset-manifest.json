@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lisktodo/static/css/main.62c5ff9a.chunk.css",
+    "main.js": "/lisktodo/static/js/main.d9261163.chunk.js",
+    "main.js.map": "/lisktodo/static/js/main.d9261163.chunk.js.map",
+    "runtime-main.js": "/lisktodo/static/js/runtime-main.5fb8d4f9.js",
+    "runtime-main.js.map": "/lisktodo/static/js/runtime-main.5fb8d4f9.js.map",
+    "static/js/2.d836236d.chunk.js": "/lisktodo/static/js/2.d836236d.chunk.js",
+    "static/js/2.d836236d.chunk.js.map": "/lisktodo/static/js/2.d836236d.chunk.js.map",
+    "static/js/3.00677456.chunk.js": "/lisktodo/static/js/3.00677456.chunk.js",
+    "static/js/3.00677456.chunk.js.map": "/lisktodo/static/js/3.00677456.chunk.js.map",
+    "index.html": "/lisktodo/index.html",
+    "static/css/main.62c5ff9a.chunk.css.map": "/lisktodo/static/css/main.62c5ff9a.chunk.css.map",
+    "static/js/2.d836236d.chunk.js.LICENSE.txt": "/lisktodo/static/js/2.d836236d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lisktodo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fb8d4f9.js",
+    "static/js/2.d836236d.chunk.js",
+    "static/css/main.62c5ff9a.chunk.css",
+    "static/js/main.d9261163.chunk.js"
+  ]
+}
